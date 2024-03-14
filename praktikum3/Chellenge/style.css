@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+.header{
+    background-size: cover; 
+    background-position: center; 
+    min-height: 100vh;
+    max-width: 50px;
+}
