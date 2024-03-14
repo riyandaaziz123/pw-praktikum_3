@@ -40,16 +40,16 @@ h3{
     float: left;
     width: 900px;
 }
-.sidebar{
+.slider{
     float: left;
     background: lightskyblue;
     padding: 31px;
     width: 382px;
 }
-.sidebar h3{
+.slider h3{
     margin-left: 30px;
 } 
-.sidebar p{
+.slider p{
     margin-left: 30px;
 }
 .footer{
